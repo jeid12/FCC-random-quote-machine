@@ -69,6 +69,12 @@ function App() {
           </button>
         </div>
       </div>
+
+      <div id="footer">
+          
+             Made with <span className="red-heart">&#10084;</span> by{"NIYOKWIZERA JEAN D AMOUR "} 
+          
+      </div>
     </div>
   );
 }
